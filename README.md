@@ -2,6 +2,11 @@
 
 The AWS key used is deprecated.
 
+# GOAL
+
+The goal of this project is to build a proof of concept for a virtual assistant chatbot that can assist PartSelect clients, recommend solutions to their issues and suggest PartSelect items to purchase.
+Video explanation here: https://www.loom.com/share/49e307f220914051904caff6ccfdcecf?sid=61f2a9d9-7b76-42ff-97fb-0bc6592ad3fe 
+
 
 # Getting Started with Create React App
 
