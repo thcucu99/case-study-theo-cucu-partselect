@@ -1,3 +1,8 @@
+# THIS REPOSITORY IS PART OF A CODING CHALLENGE
+
+The AWS key used is deprecated.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
